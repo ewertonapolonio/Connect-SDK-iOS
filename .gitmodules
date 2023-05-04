@@ -1,11 +1,11 @@
 [submodule "modules/google-cast"]
 	path = modules/google-cast
-	url = https://github.com/ConnectSDK/Connect-SDK-iOS-Google-Cast.git
-	branch = dev
+	url = https://github.com/ewertonapolonio/Connect-SDK-iOS-Google-Cast.git
+	branch = master
 [submodule "core"]
 	path = core
-	url = https://github.com/ConnectSDK/Connect-SDK-iOS-Core.git
-	branch = dev
+	url = https://github.com/ewertonapolonio/Connect-SDK-iOS-Core.git
+	branch = master
 [submodule "modules/firetv"]
 	path = modules/firetv
-	url = https://github.com/ConnectSDK/Connect-SDK-iOS-FireTV.git
+	url = https://github.com/ewertonapolonio/Connect-SDK-iOS-FireTV.git
